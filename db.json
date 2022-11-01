@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Create Template",
+      "status": "todo",
+      "category": "Personal"
+    }
+  ],
+  "signupData": [
+    {
+      "id": 1,
+      "email": "dummy@g.com",
+      "name": "Dummy",
+      "avatar": "avatar.com"
+    }
+  ]
+}

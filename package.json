@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Sahnawaz7hussain/todo-backend#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   }
 }

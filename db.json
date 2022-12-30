@@ -404,7 +404,8 @@
     "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
     "images": "https://i.dummyjson.com/data/products/30/1.jpg"
   }
-]
+],
+  "cart":[]
 
 
 }

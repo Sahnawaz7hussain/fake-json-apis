@@ -413,19 +413,21 @@
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+      "type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+       "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Hycross/9402/1669374825118/front-left-side-47.jpg?tr=w-456"
     },
     {
       "id": 2,
       "brand": "Tata",
-			"type":"AMT",
+      "type":"AMT",
       "year": 2017,
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "Price": 800000,
+      "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Hycross/9402/1669374825118/front-left-side-47.jpg?tr=w-456"
     }
   ],
   "wishlisted_cars":[
@@ -433,10 +435,11 @@
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+     "type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "Price": 500000,
+      "img":"https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Hycross/9402/1669374825118/front-left-side-47.jpg?tr=w-456"
     }
   ]
 

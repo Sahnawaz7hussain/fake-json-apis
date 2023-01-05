@@ -407,6 +407,12 @@
 ],
   "cart":[
     {"title":"dummy cart Data"}
+  ],
+  "cars":[
+    {"title":"dummy carts data"}
+  ],
+  "wishlisted_cars":[
+    {"title":"dummy wishlisted data"}
   ]
 
 
